@@ -1,0 +1,3 @@
+C:/Users/Kuba/Desktop/grafika/funny-ship-master/cmake-build-debug/CMakeFiles/FunnyShip.dir
+C:/Users/Kuba/Desktop/grafika/funny-ship-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/Desktop/grafika/funny-ship-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
